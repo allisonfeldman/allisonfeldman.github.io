@@ -37,7 +37,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 [relative link, ipynb file](Untitled.ipynb)
+
 [direct link, ipynb file](https://github.com/allisonfeldman/allisonfeldman.github.io/blob/master/Untitled.ipynb)
+
 [relative link, html file](Untitled.html)
+
 [direct link, html file](https://github.com/allisonfeldman/allisonfeldman.github.io/blob/master/Untitled.html)
+
 [relative link, shint fi](app.R)
