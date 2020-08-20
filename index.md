@@ -1,6 +1,6 @@
 ## Welcome to Allison Feldman's GitHub
 
-Eventually I will fill this with more useful content. 
+Below are links to various side projects I've worked on out of curiosity and interest.
 
-[Test Jupyter Notebook](Untitled.html)
+[Impact of Days Absent on Middle Schoole Student's Performance, using 2019 NJ DOE Data](NJDOEdaysabsent.html) \[In Work]\]
 
