@@ -6,5 +6,5 @@ I've set up this GitHub repository to be a homepage for random side projects or 
 
 Feel free to check them out. Or head over to my [LinkedIn Profile](https://www.linkedin.com/in/allison-feldman-0b99894b/) and connect with me there.
 
-* [Impact of Days Absent on Grades 3-8 Performance, using 2019 NJ DOE Data](NJDOEdaysabsent.html) \[In Work\]
+* \[In Work\] [Impact of Days Absent on Grades 3-8 Performance, using 2019 NJ DOE Data](NJDOEdaysabsent.html) 
 
