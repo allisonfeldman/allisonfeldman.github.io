@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-Hey there, my name is Allison. I am a grad student at Georgia Tech, enrolled in their Online Master of Analytics program. It's a unique program bringing together professionals and students from all over the world. 
+Hey there, my name is Allison. I am a grad student at Georgia Tech, enrolled in their [Master of Science in Analytics](http://catalog.gatech.edu/programs/analytics-ms/) program. It's a unique program bringing together professionals and students from all over the world. 
 
 I've set up this GitHub repository to be a homepage for random side projects or analyses I've decided to work on.
 
