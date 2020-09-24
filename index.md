@@ -6,5 +6,6 @@ I've set up this GitHub repository to be a homepage for random side projects or 
 
 Feel free to check them out. Or head over to my [LinkedIn Profile](https://www.linkedin.com/in/allison-feldman-0b99894b/) and connect with me there.
 
-* \[In Work\] [Impact of Days Absent on Grades 3-8 Performance, using 2019 NJ DOE Data](NJDOEdaysabsent.html) 
+* [Round-robin tournament planning (with my in-laws)](RoundRobin.html), [Link to ipynb](RoundRobin.ipynb)
+* \[In Work\] [Impact of days absent on grades 3-8 performance, using 2019 NJ DOE data](NJDOEdaysabsent.html) 
 
