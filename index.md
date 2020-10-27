@@ -9,3 +9,5 @@ Feel free to check them out. Or head over to my [LinkedIn Profile](https://www.l
 * [Round-robin tournament planning (with my in-laws)](RR_Zoom/RoundRobin.html); [link to ipynb](RR_Zoom/RoundRobin.ipynb)
 * \[In Work\] [Impact of days absent on grades 3-8 performance, using 2019 NJ DOE data](NJDOE/NJDOEdaysabsent.html) 
 
+Tableau Examples:
+* [Volunteer work for JerseySTEM. Dashboard to identify schools in need of STEM investment.](https://public.tableau.com/profile/jersey.stem#!/vizhome/Gap_Analyze/GapAnalyzerSchoolExplorer)
