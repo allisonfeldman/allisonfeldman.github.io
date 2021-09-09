@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-Hey there, my name is Allison. I am a data scientist in the NY/NJ area. Currently I work full time at Teva Pharmaceuticals building internal analytics applications using machine learning and good ol' statistical modeling. I recently graudated from Georgia Tech's [Master of Science in Analytics](http://catalog.gatech.edu/programs/analytics-ms/) program. It's a unique program bringing together professionals and students from all over the world. 
+Hey there, my name is Allison. I am a data scientist in the NY/NJ area. Currently I work full time at Teva Pharmaceuticals building internal analytics applications using machine learning and good ol' statistical modeling. I recently graduated from Georgia Tech's [Master of Science in Analytics](http://catalog.gatech.edu/programs/analytics-ms/) program. It's a unique program bringing together professionals and students from all over the world. 
 
 I've set up this GitHub repository to be a homepage for random side projects or analyses I've decided to work on.
 
